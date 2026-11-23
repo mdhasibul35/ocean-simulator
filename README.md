@@ -6,7 +6,7 @@ An immersive real-time 3D ocean simulation shaped by wind, water, and light. Bui
 
 ## 🎮 Live Demo
 - **GitHub Pages:** [https://mdhasibul35.github.io/the-ocean/](https://mdhasibul35.github.io/the-ocean/)
-- **Netlify:** [https://hasib-the-ocean.netlify.app](https://hasib-the-ocean.netlify.app)
+
 
 ---
 
